@@ -1,0 +1,6 @@
+/home/henrique_medeiros/RiderProjects/PrototypePattern/PrototypePattern/bin/Debug/PrototypePattern.exe
+/home/henrique_medeiros/RiderProjects/PrototypePattern/PrototypePattern/bin/Debug/PrototypePattern.pdb
+/home/henrique_medeiros/RiderProjects/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.csproj.AssemblyReference.cache
+/home/henrique_medeiros/RiderProjects/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.csproj.CoreCompileInputs.cache
+/home/henrique_medeiros/RiderProjects/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.exe
+/home/henrique_medeiros/RiderProjects/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.pdb
